@@ -5,10 +5,10 @@ In this project , experimentation is used to find the most suitable model to per
 
 ## Compilation Enviroment 
 
-The main code document0 Sexism_Project.ipynb is ran and performed on Google colab. Parts of the code has  been coded out as it takes more than an hour to compile, thus if required please uncomment the following sections : 
+The main code document Sexism_Project.ipynb is ran and performed on Google colab. Parts of the code has  been coded out as it takes more than an hour to compile, thus if required please uncomment the following sections : 
 - Data Augmentation
 
-No additional setup is required , unless using another environment is used to compile the code. If a different environment is used to compile the code , some extra python module installations might be required. Please use the command !pip install "module name" at the beginning of the script for it to run smoothly 
+No additional setup is required , unless using another environment is used to compile the code. If a different environment is used to compile the code , some extra python module installations might be required. Please use the command !pip install "module name" at the beginning of the script for it to run smoothly. To easily run the code without any problems, the google colab enviroment is suggested. 
 
 ## Sections of the code 
 
